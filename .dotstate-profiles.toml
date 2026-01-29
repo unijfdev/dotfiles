@@ -6,6 +6,7 @@ name = "default"
 synced_files = [
     ".config/fish",
     ".config/starship.toml",
+    ".config/superfile",
     ".config/zellij",
 ]
 packages = []
