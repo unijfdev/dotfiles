@@ -1,0 +1,11 @@
+[common]
+synced_files = []
+
+[[profiles]]
+name = "default"
+synced_files = [
+    ".config/fish",
+    ".config/starship.toml",
+    ".config/zellij",
+]
+packages = []
